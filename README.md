@@ -1,5 +1,5 @@
 # robofriends
-Tutorial for udemy course - React
+Web app React - Redux
 To run the project:
 
 1. Clone this repo
